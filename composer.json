@@ -1,5 +1,5 @@
 {
-    "name": "lupcom/gpt-bundle",
+    "name": "lupcom/contao-gpt-bundle",
     "type": "contao-bundle",
     "license": "MIT",
     "description": "enables the generation of meta-title and meta-descriptions in the backend of Contao using ChatGPT from OpenAi",
