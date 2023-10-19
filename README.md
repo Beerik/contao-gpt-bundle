@@ -9,7 +9,7 @@ Additional features are planned in the future that will make the expansion even 
 
 
 ```
-composer require lupcom/gpt-bundle
+composer require lupcom/contao-gpt-bundle
 ```
 
 ## Compability
